@@ -1,0 +1,4 @@
+1={"name" : "Latte","price":5,categoryId:2}
+2={"name" : "Çay","price":5,categoryId:2}
+3={"name" : "Mocha","price":5,categoryId:2}
+4={"name" : "Türk Kahvesi","price":5,categoryId:2}

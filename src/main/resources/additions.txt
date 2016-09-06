@@ -1,0 +1,4 @@
+1={"name" : "Seker","price":2}
+2={"name" : "Süt","price":3}
+2={"name" : "Fındık Surubu","price":3}
+2={"name" : "Cikolata sosu","price":6}
