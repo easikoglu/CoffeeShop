@@ -4,12 +4,12 @@
 This is the sample app for a basic #E-commerce Website.
 
 ##What you can do
-
-list products.
-*add/edit  product
-*see shopping cart
-*add incredients to product
-*list orders
+* see online shop and admin page
+* list products.
+* add/edit  product
+* see shopping cart
+* add incredients to product
+* list orders
 
 ##What you can understand
 
@@ -59,5 +59,6 @@ I used # [Tomcat Latest Version](https://tomcat.apache.org/download-90.cgi) to d
 -Dstart-mode=dev
 ```
 
+Then ready to go : [http://localhost:8080/](http://localhost:8080/)
 
 
