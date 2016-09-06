@@ -1,4 +1,15 @@
-This is the sample app understanding Visitor pattern during implementing a basic E-Commerce Website
+
+This is the sample app for a basic E-commerce Website.
+You can do :
+
+
+-list products.
+-add/edit  product
+-see shopping cart
+-add incredients to product
+-list orders
+
+
 You can easily understand Jersey - > Spring -> Hibernate relationship
 
 Structure :
@@ -39,9 +50,3 @@ FLUSH PRIVILEGES;
 
 # pass this as a environment variable to initialize your DB.
 -Dstart-mode=dev
-
-
-
-
-
-
