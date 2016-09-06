@@ -52,8 +52,10 @@ FLUSH PRIVILEGES;
  mvn clean install
 ```
 ##Step3
- ```javascript
-I used # Tomcat 7.0.62 to deploy, and pass this as a environment variable to initialize your DB.
+ 
+I used # [Tomcat Latest Version](https://tomcat.apache.org/download-90.cgi) to deploy, and pass this as a environment variable to initialize your DB.
+
+```javascript
 -Dstart-mode=dev
 ```
 
