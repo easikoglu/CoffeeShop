@@ -1,5 +1,5 @@
 
-This is the sample app for a basic E-commerce Website.
+This is the sample app for a basic #E-commerce Website.
 You can do :
 
 
@@ -13,6 +13,7 @@ You can do :
 You can easily understand Jersey - > Spring -> Hibernate relationship
 
 Structure :
+
 Jersey as a Controller part of the project,
 Spring in the business layer
 Hibernate located under data access part.
@@ -48,5 +49,5 @@ FLUSH PRIVILEGES;
 
 
 
-# pass this as a environment variable to initialize your DB.
+ pass this as a environment variable to initialize your DB.
 -Dstart-mode=dev
